@@ -25,3 +25,10 @@
 9. Run `docker-compose up --build` to start the client through docker
    (Or you may run through `npm install` and `npm run dev`)
 10. Navigate to `http://localhost:5173` in your browser
+
+**Steps to create a PR**
+1. Make required changes in specific directory
+2. Open `PowerShell` in that current directory
+3. Run `git add .`, commit and push the changes to the repo.
+4. Run `cd ..` to navigate to main directory
+5. Run `git add .`, commit and push the changes to main repo.
