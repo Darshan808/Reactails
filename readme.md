@@ -13,7 +13,7 @@
 1. Fork current repository
 2. Clone the forked repository
     ```bash
-    git clone git@github.com:<username></username>/CircuitVerse.git --recursive
+    git clone git@github.com:<username></username>/Reactails.git --recursive
     ```
     - Use `git submodule update --init` to get the contents of the submodule if you missed using the `--recursive` option while cloning the repository or if you have already done so.
 3. Open `Reactails` directory
